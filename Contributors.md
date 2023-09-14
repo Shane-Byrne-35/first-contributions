@@ -1,4 +1,5 @@
 # Contributors
+- [Shane Byrne](https://github.com/shane-byrne-35)
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [Joe Philip](https://github.com/joe-philip)
 - [Azhar Lihan](https://github.com/azharlihan)
